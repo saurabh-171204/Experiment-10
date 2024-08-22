@@ -39,6 +39,7 @@ int main()
     return 0;
 }
 ```
+![Output_10A](https://github.com/user-attachments/assets/e4d4ca93-8caa-4a4c-8c7a-562335b08f1f)
 
 B
 ```// Swapping the values 
@@ -62,6 +63,7 @@ int main()
     return 0;
 }
 ```
+![Output_10B](https://github.com/user-attachments/assets/c7d63862-3955-4884-95a8-eda93f2ba60d)
 
 C
 ```
@@ -86,3 +88,4 @@ int main()
     return 0;
 }
 ```
+![Output_10C ](https://github.com/user-attachments/assets/a6c2af15-d112-4703-80f3-8e5ca87179fe)

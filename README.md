@@ -89,3 +89,5 @@ int main()
 }
 ```
 ![Output_10C ](https://github.com/user-attachments/assets/a6c2af15-d112-4703-80f3-8e5ca87179fe)
+## CONCLUSION
+I learnt about pointers and how to pass arguments to functions using call by value and call by reference methods. I also learnt how to swap values using call by reference.
